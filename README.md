@@ -96,7 +96,7 @@ Son Olarak ise öde butonuna bu kodları ekledim.</br>
 
 ![Ekran görüntüsü 2023-07-03 182623](https://github.com/oktayahras/CinensSinemalariOtomasyon/assets/102553352/e9a02f37-9e99-46a9-aadb-02e209502a9b)</br>
 *Şimdi Ana sayfa Butonuna çift tıklayınız. Ve bu kodları yazınız</br>
-*Bu kod ilk programı çalıştırdığınızda 1. sayfanın önde gözükmesini diğer sayfaların saklanmasını sağlar. bu kodları sayfa sisimlerinize göre değiştiriniz.</br>
+*Bu kod ilk programı çalıştırdığınızda 1. sayfanın önde gözükmesini diğer sayfaların saklanmasını sağlar. bu kodları sayfa isimlerinize göre değiştiriniz.</br>
 *Diğer buttonlar içinde aynısını yapıcağız.</br>
 <code>  kontrol1.Show();
             kontrol_11.Hide();

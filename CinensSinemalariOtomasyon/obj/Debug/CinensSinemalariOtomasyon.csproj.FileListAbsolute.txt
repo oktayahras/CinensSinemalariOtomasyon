@@ -1,0 +1,14 @@
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\bin\Debug\CinensSinemalariOtomasyon.exe.config
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\bin\Debug\CinensSinemalariOtomasyon.exe
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\bin\Debug\CinensSinemalariOtomasyon.pdb
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.Form1.resources
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.Properties.Resources.resources
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.exe
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.pdb
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.Kontrol_1.resources
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.Kontrol_2.resources
+C:\Users\yasin\source\repos\CinensSinemalariOtomasyon\obj\Debug\CinensSinemalariOtomasyon.Kontrol.resources
